@@ -1,0 +1,386 @@
+[
+    {
+        "id": "1",
+        "brand": "Tesla",
+        "slug": "tesla",
+        "logo": "tesla-logo.png"
+    },
+    {
+        "id": "2",
+        "brand": "BMW",
+        "slug": "bmw",
+        "logo": "bmw-logo.png"
+    },
+    {
+        "id": "3",
+        "brand": "Ferrari",
+        "slug": "ferrari",
+        "logo": "ferrari-logo.png"
+    },
+    {
+        "id": "4",
+        "brand": "Ford",
+        "slug": "ford",
+        "logo": "ford-logo.png"
+    },
+    {
+        "id": "5",
+        "brand": "Porsche",
+        "slug": "porsche",
+        "logo": "porsche-logo.png"
+    },
+    {
+        "id": "6",
+        "brand": "Honda",
+        "slug": "honda",
+        "logo": "honda-logo.png"
+    },
+    {
+        "id": "7",
+        "brand": "Lamborghini",
+        "slug": "lamborghini",
+        "logo": "lamborghini-logo.png"
+    },
+    {
+        "id": "8",
+        "brand": "Toyota",
+        "slug": "toyota",
+        "logo": "toyota-logo.png"
+    },
+    {
+        "id": "9",
+        "brand": "Bentley",
+        "slug": "bentley",
+        "logo": "bentley-logo.png"
+    },
+    {
+        "id": "10",
+        "brand": "Maserati",
+        "slug": "maserati",
+        "logo": "maserati-logo.png"
+    },
+    {
+        "id": "11",
+        "brand": "Audi",
+        "slug": "audi",
+        "logo": "audi-logo.png"
+    },
+    {
+        "id": "12",
+        "brand": "Jeep",
+        "slug": "jeep",
+        "logo": "jeep-logo.png"
+    },
+    {
+        "id": "13",
+        "brand": "Subaru",
+        "slug": "subaru",
+        "logo": "subaru-logo.png"
+    },
+    {
+        "id": "14",
+        "brand": "Cadillac",
+        "slug": "cadillac",
+        "logo": "cadillac-logo.png"
+    },
+    {
+        "id": "15",
+        "brand": "Chrysler",
+        "slug": "chrysler",
+        "logo": "chrysler-logo.png"
+    },
+    {
+        "id": "16",
+        "brand": "Dodge",
+        "slug": "dodge",
+        "logo": "dodge-logo.png"
+    },
+    {
+        "id": "17",
+        "brand": "Hyundai",
+        "slug": "hyundai",
+        "logo": "hyundai-logo.png"
+    },
+    {
+        "id": "18",
+        "brand": "Jaguar",
+        "slug": "jaguar",
+        "logo": "jaguar-logo.png"
+    },
+    {
+        "id": "19",
+        "brand": "Mazda",
+        "slug": "mazda",
+        "logo": "mazda-logo.png"
+    },
+    {
+        "id": "20",
+        "brand": "Nissan",
+        "slug": "nissan",
+        "logo": "nissan-logo.png"
+    },
+    {
+        "id": "21",
+        "brand": "Alfa Romeo",
+        "slug": "alfa-romeo",
+        "logo": "alfa-romeo-logo.png"
+    },
+    {
+        "id": "22",
+        "brand": "Bugatti",
+        "slug": "bugatti",
+        "logo": "bugatti-logo.png"
+    },
+    {
+        "id": "23",
+        "brand": "Buick",
+        "slug": "buick",
+        "logo": "buick-logo.png"
+    },
+    {
+        "id": "24",
+        "brand": "Lexus",
+        "slug": "lexus",
+        "logo": "lexus-logo.png"
+    },
+    {
+        "id": "25",
+        "brand": "Rolls Royce",
+        "slug": "rolls-royce",
+        "logo": "rolls-royce-logo.png"
+    },
+    {
+        "id": "26",
+        "brand": "Acura",
+        "slug": "acura",
+        "logo": "acura-logo.png"
+    },
+    {
+        "id": "27",
+        "brand": "Aston Martin",
+        "slug": "aston-martin",
+        "logo": "aston-martin-logo.png"
+    },
+    {
+        "id": "28",
+        "brand": "Chevrolet",
+        "slug": "chevrolet",
+        "logo": "chevrolet-logo.png"
+    },
+    {
+        "id": "29",
+        "brand": "Kia",
+        "slug": "kia",
+        "logo": "kia-logo.png"
+    },
+    {
+        "id": "30",
+        "brand": "Mercedes Benz",
+        "slug": "mercedes-benz",
+        "logo": "mercedes-benz-logo.png"
+    },
+    {
+        "id": "31",
+        "brand": "Volkswagen",
+        "slug": "volkswagen",
+        "logo": "volkswagen-logo.png"
+    },
+    {
+        "id": "32",
+        "brand": "Volvo",
+        "slug": "volvo",
+        "logo": "volvo-logo.png"
+    },
+    {
+        "id": "33",
+        "brand": "McLaren",
+        "slug": "mclaren",
+        "logo": "mclaren-logo.png"
+    },
+    {
+        "id": "34",
+        "brand": "Mitsubishi",
+        "slug": "mitsubishi",
+        "logo": "mitsubishi-logo.png"
+    },
+    {
+        "id": "35",
+        "brand": "GMC",
+        "slug": "gmc",
+        "logo": "gmc-logo.png"
+    },
+    {
+        "id": "36",
+        "brand": "Infiniti",
+        "slug": "infiniti",
+        "logo": "infiniti-logo.png"
+    },
+    {
+        "id": "37",
+        "brand": "Lincoln",
+        "slug": "lincoln",
+        "logo": "lincoln-logo.png"
+    },
+    {
+        "id": "38",
+        "brand": "Peugeot",
+        "slug": "peugeot",
+        "logo": "peugeot-logo.png"
+    },
+    {
+        "id": "39",
+        "brand": "Saab",
+        "slug": "saab",
+        "logo": "saab-logo.png"
+    },
+    {
+        "id": "40",
+        "brand": "Genesin",
+        "slug": "genesin",
+        "logo": "genesin-logo.png"
+    },
+    {
+        "id": "41",
+        "brand": "Suzuki",
+        "slug": "suzuki",
+        "logo": "suzuki-logo.png"
+    },
+    {
+        "id": "42",
+        "brand": "Citroën",
+        "slug": "citroen",
+        "logo": "citroen-logo.png"
+    },
+    {
+        "id": "43",
+        "brand": "Fiat",
+        "slug": "fiat",
+        "logo": "fiat-logo.png"
+    },
+    {
+        "id": "44",
+        "brand": "Lotus",
+        "slug": "lotus",
+        "logo": "lotus-logo.png"
+    },
+    {
+        "id": "45",
+        "brand": "Mini",
+        "slug": "mini",
+        "logo": "mini-logo.png"
+    },
+    {
+        "id": "46",
+        "brand": "Maybach",
+        "slug": "maybach",
+        "logo": "maybach-logo.png"
+    },
+    {
+        "id": "47",
+        "brand": "Land Rover",
+        "slug": "land-rover",
+        "logo": "land-rover-logo.png"
+    },
+    {
+        "id": "48",
+        "brand": "Renault",
+        "slug": "renault",
+        "logo": "renault-logo.png"
+    },
+    {
+        "id": "49",
+        "brand": "Skoda",
+        "slug": "skoda",
+        "logo": "skoda-logo.png"
+    },
+    {
+        "id": "50",
+        "brand": "Daewoo",
+        "slug": "daewoo",
+        "logo": "daewoo-logo.png"
+    },
+    {
+        "id": "51",
+        "brand": "Opel",
+        "slug": "opel",
+        "logo": "opel-logo.png"
+    },
+    {
+        "id": "52",
+        "brand": "Isuzu",
+        "slug": "isuzu",
+        "logo": "isuzu-logo.png"
+    },
+    {
+        "id": "53",
+        "brand": "Abarth",
+        "slug": "abarth",
+        "logo": "abarth-logo.png"
+    },
+    {
+        "id": "54",
+        "brand": "Hummer",
+        "slug": "hummer",
+        "logo": "hummer-logo.png"
+    },
+    {
+        "id": "55",
+        "brand": "Seat",
+        "slug": "seat",
+        "logo": "seat-logo.png"
+    },
+    {
+        "id": "56",
+        "brand": "Dacia",
+        "slug": "dacia",
+        "logo": "dacia-logo.png"
+    },
+    {
+        "id": "57",
+        "brand": "Lada",
+        "slug": "lada",
+        "logo": "lada-logo.png"
+    },
+    {
+        "id": "58",
+        "brand": "Geele",
+        "slug": "geele",
+        "logo": "geele-logo.png"
+    },
+    {
+        "id": "59",
+        "brand": "Haval",
+        "slug": "haval",
+        "logo": "haval-logo.png"
+    },
+    {
+        "id": "60",
+        "brand": "Changan",
+        "slug": "changan",
+        "logo": "changan-logo.png"
+    },
+    {
+        "id": "61",
+        "brand": "Chery",
+        "slug": "chery",
+        "logo": "chery-logo.png"
+    },
+    {
+        "id": "62",
+        "brand": "Iveco",
+        "slug": "iveco",
+        "logo": "iveco-logo.png"
+    },
+    {
+        "id": "63",
+        "brand": "UAZ",
+        "slug": "uaz",
+        "logo": "uaz-logo.png"
+    },
+    {
+        "id": "64",
+        "brand": "Lifan",
+        "slug": "lifan",
+        "logo": "lifan-logo.png"
+    }
+]
